@@ -28,6 +28,7 @@ nav {
 #content {
     padding: 2em;
     background-color: lightgreen;
+    vertical-align: middle;
 }
 
 h3 {
