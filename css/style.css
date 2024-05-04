@@ -2,6 +2,10 @@ html {
     background-color: lightgreen;
 }
 
+body {
+    min-height: 100vh;
+}
+
 #header {
     position: relative;
     text-align: center;
@@ -27,8 +31,14 @@ nav {
 
 #content {
     padding: 2em;
-    background-color: lightgreen;
+
     vertical-align: middle;
+}
+
+#content a {
+    text-decoration: none;
+    font-size: larger;
+    color: rgb(226, 100, 100);
 }
 
 h3 {
@@ -41,15 +51,16 @@ h3 {
     border-bottom: 1px solid #000;
 }
 
+#väliä {
+    padding: 50px;
+}
+
 footer {
     background-color: green;
     text-align: center;
     padding: 1em;
     color: white;
-}
-
-#tietojaa a {
-    text-decoration: none;
-    font-size: larger;
-    color: rgb(226, 100, 100);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
