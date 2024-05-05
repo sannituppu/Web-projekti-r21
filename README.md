@@ -8,5 +8,5 @@
 
 🔗 [Sprintit:](https://github.com/sannituppu/Web-projekti-r21/blob/master/Sprintit.docx)
 
-🔗 [Sivun löydät täältä:](https://www.students.oamk.fi/~t2tusa00/Web-projekti-r21/)
+🔗 [Sivun löydät täältä:](https://www.students.oamk.fi/~t2tusa00/Web-projekti-r21/etusivu.html))
 
